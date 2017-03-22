@@ -7,6 +7,7 @@ Installation
 ============
 
 ``npm install xml2js``
+
 ``cordova plugin add https://github.com/six519/cordova-plugin-qrcode-mobile-vision.git``
 
 Usage
